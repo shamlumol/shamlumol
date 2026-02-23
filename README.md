@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi I'm Shamlu
 
-<!--
-**shamlumol/shamlumol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MERN Stack Developer
 
-Here are some ideas to get you started:
+Passionate Full Stack Developer with hands-on experience building real-world web applications using the MERN stack.  
+I focus on creating responsive, user-friendly, and visually appealing web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Angular
+- Bootstrap
+- Tailwind CSS
+  
+
+### Backend
+- Node.js
+- Express.js
+
+### 🗄 Database
+- MongoDB
+
+### 🔧 Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/shamlumol
+- LinkedIn: https://www.linkedin.com/in/shamlu-mol-a-k/
+
+---
+
+⭐ Always building. Always learning.
