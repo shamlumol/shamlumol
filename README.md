@@ -1,4 +1,4 @@
-# Hi I'm Shamlu
+# Hi I'm Shamlu Mol A K
 
 ## MERN Stack Developer
 
@@ -23,20 +23,20 @@ I focus on creating responsive, user-friendly, and visually appealing web experi
 - Node.js
 - Express.js
 
-### 🗄 Database
+### Database
 - MongoDB
 
-### 🔧 Tools
+### Tools
 - Git & GitHub
 - VS Code
 - Postman
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/shamlumol
-- LinkedIn: https://www.linkedin.com/in/shamlu-mol-a-k/
+## Connect With Me
+- *GitHub:* https://github.com/shamlumol
+- *LinkedIn:* https://www.linkedin.com/in/shamlu-mol-a-k/
 
 ---
 
-⭐ Always building. Always learning.
+**Always building. Always learning.**
