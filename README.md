@@ -1,163 +1,301 @@
-# 👋 Hey, I'm Shamlu
+<div align="center">
 
-### Full-Stack Developer building modern web experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Shamlu%20Mol%20A%20K&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-I build **responsive, production-ready web applications** with a focus on clean interfaces, practical functionality, and solid backend architecture.
+<h3>Building digital experiences with code, creativity & curiosity.</h3>
 
-```text
-React  ·  Node.js  ·  Express  ·  MongoDB
-```
+<p>
+Full-Stack Developer focused on building modern, responsive,<br>
+production-ready web applications and real-world digital solutions.
+</p>
 
-<br>
+<p>
+<a href="https://github.com/shamlumol">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shamlu-mol-a-k/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shamlumolakw@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shamlumol)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shamlu-mol-a-k/)
-[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shamlumolakw@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=shamlumol&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
----
-
-## `01` — About Me
-
-I'm a **Full-Stack Developer** who enjoys taking an idea from a design or concept and turning it into a working web application.
-
-My work usually covers the complete development process:
-
-**UI → Frontend → API → Database → Deployment**
-
-I care about creating interfaces that look good, work smoothly, and remain maintainable as the project grows.
-
----
-
-## `02` — Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square\&logo=css3\&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-18181B?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-18181B?style=flat-square\&logo=angular\&logoColor=DD0031)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=flat-square\&logo=bootstrap\&logoColor=7952B3)
-![Tailwind](https://img.shields.io/badge/Tailwind-18181B?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square\&logo=node.js\&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-18181B?style=flat-square\&logo=express\&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square\&logo=mongodb\&logoColor=47A248)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=flat-square\&logo=visualstudiocode\&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-18181B?style=flat-square\&logo=postman\&logoColor=FF6C37)
+</div>
 
 ---
 
-## `03` — What I Build
+## ✦ ABOUT ME
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   FULL-STACK APPLICATIONS                           │
-│                                                     │
-│   ├── Responsive Web Applications                   │
-│   ├── REST APIs                                     │
-│   ├── Admin Dashboards                              │
-│   ├── Authentication Systems                        │
-│   ├── Database-Driven Applications                  │
-│   ├── Business Websites                             │
-│   └── Production Deployments                        │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+### Building from idea to deployment.
 
-## `04` — Selected Projects
+I'm a **Full-Stack Developer** who enjoys turning ideas, designs, and business requirements into reliable web applications.
 
-### 🚗 ADAM Technology for Commercial Services
+I work across the complete development lifecycle — **frontend, backend, APIs, databases, and deployment** — with a strong focus on clean interfaces and practical functionality.
 
-**Client Project · Full-Stack Web Application**
+I especially enjoy projects where **design and engineering come together**.
 
-A premium transportation and commercial fleet website developed for a real-world client.
+</td>
 
-**React · Vite · Node.js · Express · REST API · Bootstrap · Resend**
+<td width="40%" valign="top">
 
-→ [Live Website](https://adamtechcommercial.com/)
+### FOCUS
 
----
+🎨 Modern UI / UX  
+⚛️ React Applications  
+⚙️ Node.js & REST APIs  
+🍃 MongoDB  
+🚀 Production & Deployment  
 
-### 🏨 Hotel Booking Platform
-
-**Full-Stack MERN Application**
-
-A hotel booking platform with authentication, hotel management, booking functionality, user profiles, and an admin dashboard.
-
-**React · Node.js · Express · MongoDB · JWT · REST API**
-
----
-
-### 💬 More Projects
-
-I'm continuously building and experimenting with new ideas across frontend development, backend systems, UI/UX, and full-stack applications.
-
-→ [Explore my repositories](https://github.com/shamlumol?tab=repositories)
-
----
-
-## `05` — Development Philosophy
-
-> **Good software should be useful, simple, and enjoyable to use.**
-
-I try to keep my development process focused on three things:
-
-**01 — Experience**
-Clean interfaces and responsive experiences.
-
-**02 — Engineering**
-Structured code, reusable components, and reliable APIs.
-
-**03 — Growth**
-Constantly learning new technologies and improving existing skills.
-
----
-
-## `06` — Currently
-
-```text
-▸ Building full-stack applications
-▸ Improving backend architecture
-▸ Working with REST APIs
-▸ Exploring better UI/UX practices
-▸ Learning more about deployment & production systems
-```
-
----
-
-## `07` — Let's Connect
-
-If you're interested in working together, discussing a project, or simply connecting:
-
-**Shamlu Mol A K**
-Full-Stack Developer
-
-📧 [shamlumolakw@gmail.com](mailto:shamlumolakw@gmail.com)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/shamlu-mol-a-k/)
-
-💻 [GitHub](https://github.com/shamlumol)
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Building → Learning → Improving
+## ✦ TECHNOLOGY
 
-**Thanks for visiting my profile.**
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind"/>
+
+### BACKEND · DATABASE · TOOLS
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman,vite"/>
+
+</div>
+
+---
+
+## ✦ WHAT I BUILD
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎨 Web Experiences
+
+Responsive websites with modern interfaces, thoughtful layouts, animations, and reusable components.
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ Full-Stack Applications
+
+Applications connecting frontend interfaces with APIs, backend services, authentication, and databases.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧩 Business Solutions
+
+Custom digital solutions developed around real business requirements and user needs.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ SELECTED PROJECTS
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚗 ADAM Technology
+
+**Client · Full-Stack Web Application**
+
+Premium transportation and commercial fleet website developed for a real-world client.
+
+**React · Vite · Node.js · Express · REST API · Bootstrap**
+
+<a href="https://adamtechcommercial.com/">
+<img src="https://img.shields.io/badge/LIVE%20WEBSITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏨 Hotel Booking Platform
+
+**Full-Stack MERN Application**
+
+Hotel booking platform with authentication, hotel listings, bookings, user profiles, and administration features.
+
+**React · Node.js · Express · MongoDB · JWT**
+
+<a href="https://github.com/shamlumol?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ✦ DEVELOPMENT WORKFLOW
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 01
+
+**DISCOVER**
+
+Requirements  
+Users · Goals
+
+</td>
+
+<td align="center" width="20%">
+
+### 02
+
+**DESIGN**
+
+UI / UX  
+Responsive Layout
+
+</td>
+
+<td align="center" width="20%">
+
+### 03
+
+**BUILD**
+
+React  
+Node.js · APIs
+
+</td>
+
+<td align="center" width="20%">
+
+### 04
+
+**INTEGRATE**
+
+Database  
+Services · APIs
+
+</td>
+
+<td align="center" width="20%">
+
+### 05
+
+**DEPLOY**
+
+Production  
+Monitoring · Updates
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ GITHUB ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=shamlumol&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=7C3AED&icon_color=06B6D4&text_color=64748B" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamlumol&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=shamlumol&hide_border=true&background=FFFFFF00&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED&sideLabels=64748B&currStreakNum=18181B&sideNums=18181B&dates=94A3B8"/>
+
+</div>
+
+---
+
+## ✦ CURRENTLY
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🔨  
+**BUILDING**  
+<sub>Full-Stack Applications</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+📚  
+**LEARNING**  
+<sub>Backend Architecture</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🎨  
+**EXPLORING**  
+<sub>Modern UI / UX</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🚀  
+**IMPROVING**  
+<sub>Production & Deployment</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24" width="100%"/>
+
+<h2>Let's build something great.</h2>
+
+<p>
+Have a project, idea, or opportunity?
+</p>
+
+<a href="mailto:shamlumolakw@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20TALK-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<p>
+<a href="https://linkedin.com/in/shamlu-mol-a-k/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/shamlumol">GitHub</a>
+&nbsp;•&nbsp;
+<a href="mailto:shamlumolakw@gmail.com">Email</a>
+</p>
+
+<sub>© 2026 Shamlu Mol A K · Full-Stack Developer</sub>
 
 </div>
