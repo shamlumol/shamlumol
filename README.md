@@ -1,195 +1,235 @@
-# ✦ SHAMLU MOL A K ✦
-### Full-Stack Developer
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=✦&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Shamlu%20Mol%20A%20K&descAlignY=58&descSize=28" width="100%"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=200&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=450&lines=Design+%2B+Code+%2B+Impact;Building+digital+experiences;Full-stack+craftsmanship" alt="Typing SVG" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/shamlumol">
-    <img src="https://img.shields.io/badge/-GitHub-18181B?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shamlu-mol-a-k/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shamlumolakw@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamlumol&label=profile%20views&color=7C3AED&style=flat"/>
-</p>
-
-<br>
-
----
-
-<p align="center">
-  <strong style="color: #7C3AED;">✦</strong>
-  <span style="color: #64748B; margin: 0 20px;">/</span>
-  <strong style="color: #06B6D4;">✦</strong>
-  <span style="color: #64748B; margin: 0 20px;">/</span>
-  <strong style="color: #F97316;">✦</strong>
-</p>
-
-<br>
-
-### About
-
-I'm a full-stack developer who bridges design and engineering. I build web applications that are clean, fast, and meaningful.
-
-**What I do:**
-- Full-stack web development
-- UI/UX design implementation
-- API design & integration
-- Database architecture
-
-<br>
-
----
-
-### Toolkit
 
 <div align="center">
 
-| Frontend | Backend | Tools |
-|----------|---------|-------|
-| React | Node.js | Git |
-| Angular | Express | VS Code |
-| Tailwind | MongoDB | Postman |
-| Bootstrap | REST APIs | Vite |
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,50:1E1B4B,100:0F172A&text=SHAMLU%20MOL%20A%20K&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=FULL-STACK%20DEVELOPER&descAlignY=64&descSize=15&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Turning+ideas+into+digital+experiences;Design.+Develop.+Deploy." alt="Typing animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/shamlumol">
+<img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shamlu-mol-a-k/">
+<img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:shamlumolakw@gmail.com">
+<img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shamlumol&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
 
 </div>
 
-<br>
-
 ---
-
-### Work
-
-<table align="center">
-<tr>
-<td width="50%" align="center" style="padding: 30px 20px;">
-
-**ADAM Technology**
-
-Transportation & fleet website
-
-```
-React · Node.js · Express · Bootstrap
-```
-
-<a href="https://adamtechcommercial.com/">
-  <img src="https://img.shields.io/badge/→_Live-7C3AED?style=flat&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" align="center" style="padding: 30px 20px;">
-
-**Hotel Booking Platform**
-
-MERN stack booking system
-
-```
-React · Node.js · MongoDB · JWT
-```
-
-<a href="https://github.com/shamlumol">
-  <img src="https://img.shields.io/badge/→_Repo-06B6D4?style=flat&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-### Process
 
 <div align="center">
+
+### `01` — THE DEVELOPER
+
+</div>
 
 <table>
 <tr>
-<td align="center" style="padding: 15px 20px;">
+<td width="60%" valign="top">
 
-**01**  
-Design
+## Hello, I'm Shamlu 👋
 
-</td>
-<td align="center" style="padding: 15px 20px;">
+I'm a **Full-Stack Developer** focused on creating modern, responsive, and meaningful web experiences.
 
-**02**  
-Build
+I work across frontend and backend development, combining thoughtful UI design with functional APIs and database-driven applications.
 
-</td>
-<td align="center" style="padding: 15px 20px;">
-
-**03**  
-Integrate
+- Building full-stack web applications
+- Developing responsive user interfaces
+- Integrating REST APIs and databases
+- Creating websites for freelance clients
+- Learning and improving every day
 
 </td>
-<td align="center" style="padding: 15px 20px;">
+<td width="40%" align="center" valign="middle">
 
-**04**  
-Deploy
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamlumol&bg_color=09090B&color=A78BFA&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
-
 ---
-
-### Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shamlumol&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=06B6D4&text_color=64748B" width="48%" />
+### `02` — THE STACK
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamlumol&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B" width="48%" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,bootstrap,nodejs,express,mongodb,git,github,postman,vite&perline=7" alt="Tech stack"/>
+
+<br/><br/>
+
+<sub>FRONTEND · BACKEND · DATABASE · TOOLS</sub>
 
 </div>
 
-<br>
-
 ---
-
-### Connect
 
 <div align="center">
 
-<a href="mailto:shamlumolakw@gmail.com">
-  <img src="https://img.shields.io/badge/Collaborate-7C3AED?style=flat&logo=gmail&logoColor=white"/>
+### `03` — SELECTED WORK
+
+<sub>Digital experiences built with code and creativity.</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✦ Forever Structures
+
+Luxury resort construction website.
+
+**Stack**
+
+`React` `SCSS` `Bootstrap` `Framer Motion`
+
+<a href="https://foreverstructures.co.in/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://linkedin.com/in/shamlu-mol-a-k/">LinkedIn</a> · 
-<a href="https://github.com/shamlumol">GitHub</a> · 
-<a href="mailto:shamlumolakw@gmail.com">Email</a>
+### ✦ ADAM Technology
 
-<br><br>
+Transportation and fleet website.
 
-<sub style="color: #94A3B8;">2026 · Shamlu Mol A K</sub>
+**Stack**
+
+`React` `Node.js` `Express` `Bootstrap`
+
+<a href="https://adamtechcommercial.com/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-06B6D4?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✦ Hotel Booking Platform
+
+MERN-based hotel booking and management system.
+
+**Stack**
+
+`React` `Node.js` `MongoDB` `JWT`
+
+<a href="https://github.com/shamlumol">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ Client Portfolio
+
+Professional data engineer portfolio website.
+
+**Stack**
+
+`React` `React Router` `React Bootstrap`
+
+<a href="https://sakshi-korde.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-06B6D4?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `04` — HOW I BUILD
 
 </div>
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient&customColorList=12,20,24" width="100%"/>
-</p>
+| 01 | 02 | 03 | 04 |
+| :---: | :---: | :---: | :---: |
+| **DISCOVER** | **DESIGN** | **DEVELOP** | **DEPLOY** |
+| Understand | Plan UI | Build | Deliver |
+| Requirements | User experience | Frontend + Backend | Production |
+
+</div>
+
+---
+
+<div align="center">
+
+### `05` — GITHUB INSIGHTS
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shamlumol&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=06B6D4&text_color=D4D4D8&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamlumol&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=D4D4D8" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shamlumol&theme=transparent&hide_border=true&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `06` — CONTRIBUTION FLOW
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamlumol&bg_color=09090B&color=D4D4D8&line=7C3AED&point=06B6D4&area_color=7C3AED&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `07` — LET'S CONNECT
+
+<br/>
+
+Whether you're building a product, launching a website, or exploring an idea—
+
+**Let's create something meaningful.**
+
+<br/>
+
+<a href="mailto:shamlumolakw@gmail.com">
+<img src="https://img.shields.io/badge/START_A_CONVERSATION-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/shamlumol">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/shamlu-mol-a-k/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:shamlumolakw@gmail.com">Email</a>
+
+<br/><br/>
+
+<sub>© 2026 SHAMLU MOL A K · BUILDING WITH INTENT.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1E1B4B,100:09090B" width="100%"/>
+
+</div>
