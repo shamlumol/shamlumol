@@ -50,11 +50,7 @@ I work across frontend and backend development, combining thoughtful UI design w
 - Learning and improving every day
 
 </td>
-<td width="40%" align="center" valign="middle">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamlumol&bg_color=09090B&color=A78BFA&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</td>
 </tr>
 </table>
 
