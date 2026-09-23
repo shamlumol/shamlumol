@@ -178,9 +178,6 @@ Professional data engineer portfolio website.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shamlumol&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=06B6D4&text_color=D4D4D8&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamlumol&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=D4D4D8" width="49%"/>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamlumol&theme=transparent&hide_border=true&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA" width="70%"/>
@@ -214,7 +211,6 @@ Professional data engineer portfolio website.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamlumol&bg_color=09090B&color=D4D4D8&line=7C3AED&point=06B6D4&area_color=7C3AED&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%"/>
 
 </div>
 
